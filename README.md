@@ -4,7 +4,7 @@
 
 ### 💚 Apaixonado por ciência e análise de dados
 
-Me chamo Miguel, tenho 19 anos e sou de São Paulo. Terminei o ensino médio e atualmente curso.
+Me chamo Miguel, tenho 19 anos e sou de São Paulo. Terminei o ensino médio e atualmente curso
 Ciência de dados na Cruzeiro do Sul. Sou apaixonado por tecnologia desde que me conheço por gente. 
 Mais adiante, que fora do âmbito da programação, compartilho outra paixão pela leitura. 
 Sou um leitor ávido e acredito ser um hábito essencial para o crescimento pessoal e profissional. 
