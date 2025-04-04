@@ -8,7 +8,7 @@ Ciência de dados na Cruzeiro do Sul. Sou apaixonado por tecnologia desde que me
 
 ### 💚 Apaixonado por ciência e análise de dados
 
-- 🌱 Atualmente estou aprendendo ** Analise de Power BI **
+- 🌱 Atualmente estou aprendendo ** Analise de dados em Power BI **
 
 - 📫Você me acha através do e-mail **miguel,goncalves0315@gmail.com**
 ---
