@@ -9,7 +9,7 @@ Ciência de dados na Cruzeiro do Sul. Sou apaixonado por tecnologia desde que me
 
 - 🌱 Atualmente estou aprendendo ** Modelagem de dados em Power BI **
 
-- 📫Você me acha através do e-mail **dmhubdigital@gmail.com**
+- 📫Você me acha através do e-mail **miguel,goncalves0315@gmail.com**
 ---
 
 
