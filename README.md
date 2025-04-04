@@ -2,7 +2,7 @@
 
 Me chamo Miguel, tenho 19 anos e sou de São Paulo. Terminei o ensino médio e atualmente curso
 Ciência de dados na Cruzeiro do Sul. Sou apaixonado por tecnologia desde que me conheço por gente.
----
+##---
 
 
 **`Cientista de Dados`**
