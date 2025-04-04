@@ -1,4 +1,5 @@
 **`Cientista de Dados`**
+<h3 align="center">Apaixonado por ciência e análise de dados no mundo digital</h3>
 
 Me chamo Miguel, tenho 19 anos e sou de São Paulo. Terminei o ensino médio e atualmente curso.
 Ciência de dados na Cruzeiro do Sul. Sou apaixonado por tecnologia desde que me conheço por gente. 
